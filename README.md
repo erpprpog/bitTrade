@@ -1,0 +1,4 @@
+bitTrade
+========
+
+Bitcoin trade monitor
